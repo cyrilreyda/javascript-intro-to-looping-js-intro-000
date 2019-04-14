@@ -17,3 +17,11 @@ function whileLoop(number) {
   }
   return 'done';
 }
+
+
+function doWhileLoop(num) {
+  do {
+    
+  }
+  while (incrementValue() < num)
+} 
